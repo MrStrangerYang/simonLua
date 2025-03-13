@@ -1,3 +1,4 @@
+rime-lua的部署和入门经验
 # 一、安装rime
 ## Windows安装
 小狼毫+雾凇方案，安装教程参考这篇博文[^1]。
@@ -85,7 +86,7 @@ Log输出如下：
 > 	no file 'C:\Users\pigge\AppData\Roaming\Rime\lua\socket\http\init.lua'
 > 	no file 'C:\Program Files\Rime\weasel-0.16.3\data\lua\socket\http.lua'
 
-解决方法参考Section 2 
+解决方法参考Section 2
 
 
 # 参考资料
