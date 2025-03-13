@@ -1,4 +1,5 @@
 对应双引号翻译候选框的功能，如下图。
+
 ![rime_translate](https://github.com/user-attachments/assets/4d7d8133-76bf-4871-a1f2-8dfe18602b4a)
 
 
