@@ -1,4 +1,6 @@
 对应双引号翻译候选框的功能，如下图。
+![rime_translate](https://github.com/user-attachments/assets/4d7d8133-76bf-4871-a1f2-8dfe18602b4a)
+
 
 下载 `niu_trans_filter.lua` 放到lua文件内
 Rime文件夹结构如下
